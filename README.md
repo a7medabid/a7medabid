@@ -35,10 +35,4 @@ I'm a student at the Faculty of Artificial Intelligence, Horus University. I'm c
 * Studying at Horus University - Faculty of Artificial Intelligence.
 * Learning Python and C++ to build software logic from scratch.
 * Exploring Linux systems and GitHub for DevOps.
-
-<br />
-
-#### 🧡 &nbsp;&nbsp;My passions
-
-* Artificial Intelligence 
-* DevOps & Data Science
+* Learning Data Science at University
