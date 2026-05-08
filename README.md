@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Ahmed Abid
 
-<!--
-**a7medabid/a7medabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/a7medabid">
+    <img width="120" src="https://github.com/a7medabid.png" alt="Ahmed Abid" style="border-radius: 50%;" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center" style="margin: -20px 0 30px">
+  <a href="https://github.com/a7medabid" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahmed-abid-a4083931a/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:a7medabid96@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student at the Faculty of Artificial Intelligence, Horus University. I'm currently training to become a DevOps Engineer, focusing on building solid logic from scratch and automating workflows.
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medabid&layout=compact&hide_title=1&card_width=300" alt="Top languages used in my repos" />
+  <br />
+  <small>Languages I use - currently focusing on Python and C++ 🚀</small>
+  <br />
+  <br />
+</div>
+
+#### 🎓 &nbsp;&nbsp;Education & Path
+ 
+* Studying at Horus University - Faculty of Artificial Intelligence.
+* Learning Python and C++ to build software logic from scratch.
+* Exploring Linux systems and GitHub for DevOps.
+
+<br />
+
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Artificial Intelligence & Machine Learning
+* DevOps & Infrastructure
+* Automation & Scripting
+* Technology and Problem Solving
