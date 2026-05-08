@@ -33,6 +33,6 @@ I'm a student at the Faculty of Artificial Intelligence, Horus University. I'm c
 #### 🎓 &nbsp;&nbsp;Education & Path
  
 * Studying at Horus University - Faculty of Artificial Intelligence.
-* Learning Python and C++ to build software logic from scratch.
+* Learning Python and C++ to build software logic.
 * Exploring Linux systems and GitHub for DevOps.
 * Learning Data Science at University
