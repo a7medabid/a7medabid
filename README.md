@@ -40,7 +40,5 @@ I'm a student at the Faculty of Artificial Intelligence, Horus University. I'm c
 
 #### 🧡 &nbsp;&nbsp;My passions
 
-* Artificial Intelligence & Machine Learning
-* DevOps & Infrastructure
-* Automation & Scripting
-* Technology and Problem Solving
+* Artificial Intelligence 
+* DevOps & Data Science
